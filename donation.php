@@ -2,12 +2,12 @@
 
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
+            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg-1.png)">
             </div>
             <div class="container">
                 <div class="page-header__inner">
                     <ul class="thm-breadcrumb list-unstyled">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><span>/</span></li>
                         <li class="active">Donations</li>
                     </ul>
@@ -31,7 +31,7 @@
                                 </div>
                             </div>
                             <div class="causes-one__content">
-                                <h3 class="causes-one__title"><a href="donation-details.html">Let’s education for
+                                <h3 class="causes-one__title"><a href="donation-details.php">Let’s education for
                                         children get good life</a>
                                 </h3>
                                 <p class="causes-one__text">Donate for childern education</p>

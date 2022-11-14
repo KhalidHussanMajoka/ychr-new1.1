@@ -25,7 +25,7 @@
                                     <li><a href="about.php">About us</a></li>
                                     <li><a href="contact.php">Contact</a></li>
                                     <li><a href="news.php">Latest News</a></li>
-                                    <li><a href="event-details.php">Recent Events</a></li>
+                                    <li><a href="events.php">Recent Events</a></li>
                                     <li><a href="donation.php">Donations</a></li>
                                 </ul>
                             </div>

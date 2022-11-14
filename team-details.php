@@ -4,14 +4,14 @@
             <div class="container">
                 <div class="section-title text-center">
                     <span class="section-title__tagline">Our expert team</span>
-                    <h2 class="section-title__title">Our Team <br> </h2>
+                    <h2 class="section-title__title">Our Board Of Directors<br> </h2>
                 </div>
                 <div class="row">
                     <!--Team One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
-                                <img src="assets/images/resources/zahid-islam.png" style="height:50vh;width:120%;" alt="">
+                                <img src="assets/images/resources/zahid-islam.png" style="height:40vh;width:100%;" alt="">
                                 <div class="team-one__social">
                                     <a href="#"><i class="fab fa-facebook"></i></a>
                                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -27,10 +27,10 @@
                     </div>
                     <!--Team One Single End-->
                     <!--Team One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
-                                <img src="assets/images/resources/yasmin-tahira.jpg" style="height:50vh;width:120%;" alt="">
+                                <img src="assets/images/resources/yasmin-tahira.jpg" style="height:40vh;width:100%;" alt="">
                                 <div class="team-one__social">
                                     <a href="#"><i class="fab fa-facebook"></i></a>
                                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -46,29 +46,10 @@
                     </div>
                     <!--Team One Single End-->
                     <!--Team One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
-                                <img src="assets/images/resources/shazia-khan.jpg" style="height:50vh;width:120%;" alt="">
-                                <div class="team-one__social">
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                            <div class="team-one__content">
-                                <h3 class="team-one__name"><a href="team-details.php">Shazia Khan</a></h3>
-                                <p class="team-one__sub-title">CEO</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Team One Single End-->
-                    <!--Team One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-                        <div class="team-one__single">
-                            <div class="team-one__img">
-                                <img src="assets/images/resources/umme-laila.png" style="height:50vh;width:120%;"  alt="">
+                                <img src="assets/images/resources/umme-laila.png" style="height:40vh;width:100%;" alt="">
                                 <div class="team-one__social">
                                     <a href="#"><i class="fab fa-facebook"></i></a>
                                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -83,8 +64,154 @@
                         </div>
                     </div>
                     <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/resources/mahum-yasin.jpg" style="height:40vh;width:100%;"  alt="">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 class="team-one__name"><a href="team-details.php">Mahum Yasin</a></h3>
+                                <p class="team-one__sub-title">Member,Board OF Directors</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/resources/mian-shahid.jpg" style="height:40vh;width:100%;"  alt="">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 class="team-one__name"><a href="team-details.php">Mian Shahid Nadeem</a></h3>
+                                <p class="team-one__sub-title">Member,Board OF Directors</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/resources/anjum-raza.jpg" style="height:40vh;width:100%;"  alt="">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 class="team-one__name"><a href="team-details.php">Anjum Raza</a></h3>
+                                <p class="team-one__sub-title">Member,Board OF Directors</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
                 </div>
             </div>
         </section>
         <!--Team One End-->
+
+        <!--Team two Start-->
+        <section class="team-one">
+            <div class="container">
+                <div class="section-title text-center">
+                    <span class="section-title__tagline">Our expert team</span>
+                    <h2 class="section-title__title">Our Staff Members<br> </h2>
+                </div>
+                <div class="row">
+                    <!--Team One Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/resources/shazia-khan.jpg" style="height:40vh;width:100%;" alt="">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 class="team-one__name"><a href="team-details.php">Shazia Khan</a></h3>
+                                <p class="team-one__sub-title">Chief Executive Officer</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/resources/shazia-fida.jpg" style="height:40vh;width:100%;" alt="">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 class="team-one__name"><a href="team-details.php">Shazia Fida</a></h3>
+                                <p class="team-one__sub-title">Project Coordinator</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/resources/kiran-bilal.jpg" style="height:40vh;width:100%;" alt="">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 class="team-one__name"><a href="team-details.php">Kiran Bilal</a></h3>
+                                <p class="team-one__sub-title">Reporting and Communication Officer</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/resources/" style="height:40vh;width:100%;"  alt="">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 class="team-one__name"><a href="team-details.php">Mushtaq Chisti</a></h3>
+                                <p class="team-one__sub-title">Monitoring and Evaluation Officer</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                </div>
+            </div>
+        </section>
+        <!--Team two End-->
     <?php include ('footer.php') ?>

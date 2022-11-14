@@ -1,7 +1,7 @@
 <?php include ('header.php') ?>
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
+            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg-1.png)">
             </div>
             <div class="container">
                 <div class="page-header__inner">
@@ -76,6 +76,78 @@
             </div>
         </section>
         <!--About Four End-->
+        <!-- Start History of YCHR -->
+        <section class="news-details">
+          <div class="container">
+           <div class="row">
+               <div class="col-xl-12 col-lg-12">
+                    <div class="news-details__left">
+                        <div class="news-details__content">
+                         <center><h2>About-YCHR</h2></center>
+                         <h3 class="news-details__title">History</h3>
+                         <p class="news-details__text-1">The Organization Was Formed By A Group Of Students From Punjab University, Lahore, Pakistan,
+                             In 1988 And Registered As Not-For-Profit Organization Under Societies Registration Act 1860 In
+                             1990 Having Registration Number RP/4206- L/S/90/1464. </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-12 col-lg-12">
+                    <div class="news-details__left">
+                        <div class="news-details__content">
+                         <h3 class="news-details__title">Mission</h3>
+                         <p class="news-details__text-1">“Our Mission Is To Work For Poverty Alleviation By Undertaking And Supporting Initiatives Aimed
+                             At Raising The Living Standards Of The Disadvantaged Sections Of The Society By Making
+                             Individual And Collective Efforts To Bring About Positive Societal Changes, Economic And Political
+                             Empowerment, Especially Among Women And Disadvantaged Sections Of Society.”
+                         </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-12 col-lg-12">
+                    <div class="news-details__left">
+                        <div class="news-details__content">
+                         <h3 class="news-details__title">Vision</h3>
+                         <p class="news-details__text-1">Our Vision Is A World With Equal Rights And Development Opportunities For The Poor And
+                           Disadvantaged Sections Of The Society, Where Every Person Can Exercise The Right To A Life Of
+                           Dignity.
+                         </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-12 col-lg-12">
+                    <div class="news-details__left">
+                        <div class="news-details__content">
+                         <h3 class="news-details__title">Objectives</h3>
+                         <p class="news-details__text-1">
+                            <ul>
+                                <li>To Increase Awareness About Social And Economic Problems, Organize The Disadvantaged
+                                   Strata, Especially Women, To Solve The Problems Collectively And Play An Effective Role In The
+                                   Development Process.
+                                </li>
+                                <li>To Encourage The Disadvantaged Strata In Finding Appropriate Solutions To Their Socio-
+                                   Economic Problems And Make Their Access Possible To The Already Available Resources.
+                                </li>
+                                <li>To Enhance People’s Skills In Making Maximum Use Of Their Resources And Help Themselves.</li>
+                                <li>To Help Develop Community Networks With Other Organizations (GOs And NGOs) For
+                                 Facilitation Of Their Efforts.
+                                </li>
+                                <li>To Collaborate In Exchange Of Information And Technical Skills With Others Governmental And
+                                  Non-Governmental Organizations.
+                                </li>
+                                <li>To Help Community Develop Into A Pressure Group So That It Could Exercise Control And
+                                  Participate In Formation Of Policies And Important Decisions.
+                                </li>
+                                <li>To Build A Culture Of Peace,Tolerance And Interfaith Harmony To Counter Violent Extremism.</li>
+                                <li>To Provide Positive Alternatives To Violent Thought And Action For People, Especially Youth,In The Society.</li>
+                            </ul>
+                         </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+ </section>
+ <!--End History of YCHR -->
 
         <!--Testimonial Two Start-->
         <section class="testimonial-two">
@@ -305,7 +377,7 @@
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
-                                <img src="assets/images/resources/zahid-islam.png" style="height:50vh;width:120%;" alt="">
+                                <img src="assets/images/resources/zahid-islam.png" style="height:50vh;width:130%;" alt="">
                                 <div class="team-one__social">
                                     <a href="#"><i class="fab fa-facebook"></i></a>
                                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -324,7 +396,7 @@
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
-                                <img src="assets/images/resources/yasmin-tahira.jpg" style="height:50vh;width:120%;" alt="">
+                                <img src="assets/images/resources/yasmin-tahira.jpg" style="height:50vh;width:130%;" alt="">
                                 <div class="team-one__social">
                                     <a href="#"><i class="fab fa-facebook"></i></a>
                                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -343,7 +415,7 @@
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
-                                <img src="assets/images/resources/shazia-khan.jpg" style="height:50vh;width:120%;" alt="">
+                                <img src="assets/images/resources/shazia-khan.jpg" style="height:50vh;width:130%;" alt="">
                                 <div class="team-one__social">
                                     <a href="#"><i class="fab fa-facebook"></i></a>
                                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -362,7 +434,7 @@
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
-                                <img src="assets/images/resources/umme-laila.png" style="height:50vh;width:120%;"  alt="">
+                                <img src="assets/images/resources/umme-laila.png" style="height:50vh;width:130%;"  alt="">
                                 <div class="team-one__social">
                                     <a href="#"><i class="fab fa-facebook"></i></a>
                                     <a href="#"><i class="fab fa-twitter"></i></a>

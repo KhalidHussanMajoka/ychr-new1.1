@@ -2,12 +2,12 @@
 
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
+            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg-1.png)">
             </div>
             <div class="container">
                 <div class="page-header__inner">
                     <ul class="thm-breadcrumb list-unstyled">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><span>/</span></li>
                         <li class="active">Events</li>
                     </ul>
@@ -34,7 +34,7 @@
                                         <li><i class="fas fa-clock"></i>8:00pm</li>
                                         <li><i class="fas fa-map-marker-alt"></i>Multan</li>
                                     </ul>
-                                    <h3 class="events-one__title"><a href="event-details.html">Environment Education Program</a></h3>
+                                    <h3 class="events-one__title"><a href="event-details.php">Environment Education Program</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -53,7 +53,7 @@
                                         <li><i class="fas fa-clock"></i>8:00pm</li>
                                         <li><i class="fas fa-map-marker-alt"></i>Muzaffargarh</li>
                                     </ul>
-                                    <h3 class="events-one__title"><a href="event-details.html">Solid Waste Management Programs</a></h3>
+                                    <h3 class="events-one__title"><a href="event-details.php">Solid Waste Management Programs</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -72,7 +72,7 @@
                                         <li><i class="fas fa-clock"></i>8:00pm</li>
                                         <li><i class="fas fa-map-marker-alt"></i>Lahore</li>
                                     </ul>
-                                    <h3 class="events-one__title"><a href="event-details.html">Home School Education Program</a></h3>
+                                    <h3 class="events-one__title"><a href="event-details.php">Home School Education Program</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -91,7 +91,7 @@
                                         <li><i class="fas fa-clock"></i>8:00pm</li>
                                         <li><i class="fas fa-map-marker-alt"></i>Lodhran</li>
                                     </ul>
-                                    <h3 class="events-one__title"><a href="event-details.html">Senior Citizens</a></h3>
+                                    <h3 class="events-one__title"><a href="event-details.php">Senior Citizens</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -110,7 +110,7 @@
                                         <li><i class="fas fa-clock"></i>8:00pm</li>
                                         <li><i class="fas fa-map-marker-alt"></i>Lahore</li>
                                     </ul>
-                                    <h3 class="events-one__title"><a href="event-details.html">Education</a></h3>
+                                    <h3 class="events-one__title"><a href="event-details.php">Education</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -129,7 +129,7 @@
                                         <li><i class="fas fa-clock"></i>8:00pm</li>
                                         <li><i class="fas fa-map-marker-alt"></i>Multan</li>
                                     </ul>
-                                    <h3 class="events-one__title"><a href="event-details.html">Waseeb Baithak</a></h3>
+                                    <h3 class="events-one__title"><a href="event-details.php">Waseeb Baithak</a></h3>
                                 </div>
                             </div>
                         </div>

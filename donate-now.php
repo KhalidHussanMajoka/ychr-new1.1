@@ -2,12 +2,12 @@
 
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
+            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg-1.png)">
             </div>
             <div class="container">
                 <div class="page-header__inner">
                     <ul class="thm-breadcrumb list-unstyled">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><span>/</span></li>
                         <li class="active">Donate now</li>
                     </ul>
@@ -143,7 +143,7 @@
                                     </div>
                                 </div>
                                 <div class="causes-one__content">
-                                    <h3 class="causes-one__title"><a href="donation-details.html">Let’s education for
+                                    <h3 class="causes-one__title"><a href="donation-details.php">Let’s education for
                                             children get good
                                             life</a>
                                     </h3>
@@ -168,12 +168,12 @@
                                 <div class="sidebar-shape-1"
                                     style="background-image: url(assets/images/shapes/sidebar-shape-1.png);"></div>
                                 <div class="donation-details__organizer-img">
-                                    <img src="assets/images/resources/" alt="">
+                                    <img src="assets/images/resources/shazia-khan.jpg" alt="">
                                 </div>
                                 <div class="donation-details__organizer-content">
                                     <p class="donation-details__organizer-date">Created 20 Nov, 2022</p>
                                     <p class="donation-details__organizer-title">Organizer:</p>
-                                    <p class="donation-details__organizer-name">Shazia Khan</p>
+                                    <p class="donation-details__organizer-name">Shazia Khan (CEO)</p>
                                     <ul class="list-unstyled donation-details__organizer-list">
                                         <li>
                                             <div class="icon">

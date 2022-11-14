@@ -69,7 +69,7 @@
                     <div class="main-menu__wrapper-inner">
                         <div class="main-menu__left">
                             <div class="main-menu__logo">
-                                <a href="index.html"><img src="assets/images/resources/ychr_logo.png" alt="" width="86%"></a>
+                                <a href="index.php"><img src="assets/images/resources/ychr_logo.png" alt="" width="86%"></a>
                             </div>
                             <div class="main-menu__shape-1 float-bob-x">
                                 <img src="assets/images/shapes/main-menu-shape-1.png" alt="">
@@ -142,10 +142,12 @@
                                             <a href="#">Pages</a>
                                             <ul>
                                                 <li><a href="about.php">About</a></li>
+                                                <li><a href="gallery.php">Gallery</a></li>
+                                                <li><a href="thematic-area.php">Thematic Area</a></li>
+                                                <li><a href="our-partners.php">Our partnership</a></li>
                                                 <!-- <li><a href="volunteer.php">Volunteer</a></li>
                                                 <li><a href="become-volunteer.php">Become volunteer</a></li>
                                                 <li><a href="volunteer-carousel.php">Volunteer carousel</a></li>
-                                                <li><a href="gallery.php">Gallery</a></li>
                                                 <li><a href="gallery-carousel.php">Gallery carousel</a></li>
                                                 <li><a href="faq.php">FAQs</a></li> -->
                                                 <li><a href="404.php">404 Error</a></li>
@@ -155,9 +157,10 @@
                                             <a href="#">Donations</a>
                                             <ul>
                                                 <li><a href="donation.php">Donation</a></li>
+                                                <li><a href="donation-details.php">Donation details</a></li>
                                                 <!-- <li><a href="donations-list.php">Donation list</a></li>
                                                 <li><a href="donation-carousel.php">Donation carousel</a></li>
-                                                <li><a href="donation-details.php">Donation details</a></li> -->
+                                                 -->
                                                 <li><a href="donate-now.php">Donate Now</a></li>
                                             </ul>
                                         </li>
@@ -174,11 +177,8 @@
                                         <li class="dropdown">
                                             <a href="#">News</a>
                                             <ul>
-                                                <!-- <li><a href="news.php">News</a></li>
-                                                <li><a href="news-carousel.php">News carousel</a></li>
-                                                <li><a href="news-sidebar.php">News right sidebar</a></li>
-                                                <li><a href="news-sidebar-left.php">News left sidebar</a></li>
-                                                <li><a href="news-details.php">News details</a></li> -->
+                                                <li><a href="news.php">News</a></li>
+                                                <li><a href="news-details.php">News details</a></li>
                                             </ul>
                                         </li>
                                         <li>
