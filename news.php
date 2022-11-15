@@ -196,4 +196,5 @@
             </div>
         </section>
         <!--News One End-->
+        <?php include ('partner-brands.php') ?>
 <?php include ('footer.php') ?>

@@ -142,4 +142,5 @@
             </div>
         </div>
  </section>
+ <?php include ('partner-brands.php') ?>
 <?php include ('footer.php') ?>
