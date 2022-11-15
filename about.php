@@ -304,7 +304,7 @@
                                 </h2>
                             </div>
                             <p class="faq-one__text-1">Some important questions which people are frequently asking</p>
-                            <a href="faq.php" class="thm-btn faq-one__btn">Learn how to get help</a>
+                            <a href="#" class="thm-btn faq-one__btn">Learn how to get help</a>
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6">

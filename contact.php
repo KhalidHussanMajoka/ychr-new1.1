@@ -26,7 +26,7 @@
                     <h2 class="section-title__title">Feel free to write us <br> anytime</h2>
                 </div>
                 <div class="contact-page__form-box">
-                    <form action="https://layerdrops.com/oxpins/maphp/assets/inc/sendemail.php" class="contact-page__form contact-form-validated"
+                    <form action="mailto:info@ychr-crt.org" class="contact-page__form contact-form-validated"
                         novalidate="novalidate">
                         <div class="row">
                             <div class="col-xl-6">

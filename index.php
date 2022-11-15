@@ -334,7 +334,7 @@
                                 <h2 class="section-title__title">Awami Baithaks For Peace Promotion</h2>
                             </div>
                             <p class="events-one__text-1">YCHR, In Collaboration With US State Department, Is Working On A Project Titled “Awami Baithaks For Peace Promotion” In Districts Multan And Muzaffargarh.</p>
-                            <a href="event-details.php" class="thm-btn events-one__btn">Discover More</a>
+                            <a href="events.php" class="thm-btn events-one__btn">Discover More</a>
                         </div>
                     </div>
                     <div class="col-xl-8 col-lg-8">
@@ -587,75 +587,7 @@
         <!--Feature One End-->
 
         <!--Brand One Start-->
-        <section class="brand-one">
-            <div class="container">
-                <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100, "slidesPerView": 5, "autoplay": { "delay": 5000 }, "breakpoints": {
-                            "0": {
-                                "spaceBetween": 30,
-                                "slidesPerView": 2
-                            },
-                            "375": {
-                                "spaceBetween": 30,
-                                "slidesPerView": 2
-                            },
-                            "575": {
-                                "spaceBetween": 30,
-                                "slidesPerView": 3
-                            },
-                            "767": {
-                                "spaceBetween": 50,
-                                "slidesPerView": 4
-                            },
-                            "991": {
-                                "spaceBetween": 50,
-                                "slidesPerView": 5
-                            },
-                            "1199": {
-                                "spaceBetween": 100,
-                                "slidesPerView": 6
-                            }
-                        }}'>
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-1.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-2.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-3.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-4.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-5.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-6.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-1.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-2.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-3.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-4.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-5.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-6.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                    </div>
-                </div>
-            </div>
-        </section>
+      <?php include ('partner-brands.php') ?>
         <!--Brand One End-->
 
         <!--Testimonial One Start-->
@@ -913,7 +845,7 @@
                                 </h2>
                             </div>
                             <p class="faq-one__text-1">Some important questions which people are frequently asking</p>
-                            <a href="faq.php" class="thm-btn faq-one__btn">Learn how to get help</a>
+                            <a href="#" class="thm-btn faq-one__btn">Learn how to get help</a>
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6">

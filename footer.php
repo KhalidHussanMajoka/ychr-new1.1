@@ -1,6 +1,6 @@
 <!--Site Footer Start-->
         <footer class="site-footer">
-            <div class="site-footer-bg" style="background-image: url(assets/images/backgrounds/site-footer-bg.jpg);">
+            <div class="site-footer-bg" style="background-image: url(assets/images/backgrounds/134-111.jpg);">
             </div>
             <div class="site-footer__top">
                 <div class="container">
@@ -11,7 +11,7 @@
                                     <a href="index.php"><img src="assets/images/resources/ychr_logo-white.png" alt="" width="40%"></a>
                                 </div>
                                 <div class="footer-widget__about-text-box">
-                                    <p class="footer-widget__about-text"></p>
+                                    <p class="footer-widget__about-text">Youth Commission For Human Rights</p>
                                 </div>
                                 <div class="footer-widget__btn">
                                     <a href="donate-now.php"> <span class="fa fa-heart"></span>Donate now</a>

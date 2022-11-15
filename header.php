@@ -145,6 +145,7 @@
                                                 <li><a href="gallery.php">Gallery</a></li>
                                                 <li><a href="thematic-area.php">Thematic Area</a></li>
                                                 <li><a href="our-partners.php">Our partnership</a></li>
+                                                <li><a href="become-volunteer.php">Become volunteer</a></li>
                                                 <!-- <li><a href="volunteer.php">Volunteer</a></li>
                                                 <li><a href="become-volunteer.php">Become volunteer</a></li>
                                                 <li><a href="volunteer-carousel.php">Volunteer carousel</a></li>
@@ -168,10 +169,9 @@
                                             <a href="#">Events</a>
                                             <ul>
                                                 <li><a href="events.php">Events</a></li>
+                                                 <li><a href="event-details.php">Event details</a></li>
                                                 <li><a href="team-details.php">Team Details</a>
-                                                <!-- <li><a href="events-carousel.php">Events carousel</a></li>
-                                                
-                                                <li><a href="event-details.php">Event details</a></li> -->
+                                                <!-- <li><a href="events-carousel.php">Events carousel</a></li>-->
                                             </ul>
                                         </li>
                                         <li class="dropdown">
@@ -179,6 +179,7 @@
                                             <ul>
                                                 <li><a href="news.php">News</a></li>
                                                 <li><a href="news-details.php">News details</a></li>
+                                                <!-- <li><a href="faq.php">FAQs</a></li>  -->
                                             </ul>
                                         </li>
                                         <li>
