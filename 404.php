@@ -37,7 +37,7 @@
                                     <button type="submit"><i class="icon-magnifying-glass"></i></button>
                                 </div>
                             </form>
-                            <a href="index.html" class="thm-btn error-page__btn">back to home</a>
+                            <a href="index.php" class="thm-btn error-page__btn">back to home</a>
                         </div>
                     </div>
                 </div>

@@ -139,7 +139,7 @@
                                             
                                         </li>
                                         <li class="dropdown">
-                                            <a href="#">Pages</a>
+                                            <a href="#">About Us Pages</a>
                                             <ul>
                                                 <li><a href="about.php">About</a></li>
                                                 <li><a href="gallery.php">Gallery</a></li>
