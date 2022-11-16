@@ -35,20 +35,7 @@
                                         children get good life</a>
                                 </h3>
                                 <p class="causes-one__text">Donate for childern education</p>
-                                <div class="causes-one__progress">
-                                    <div class="causes-one__progress-shape"
-                                        style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
-                                    </div>
-                                    <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="36%">
-                                            <div class="count-text">36%</div>
-                                        </div>
-                                    </div>
-                                    <div class="causes-one__goals">
-                                        <p><span>$25,270</span> Raised</p>
-                                        <p><span>$30,000</span> Goal</p>
-                                    </div>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>

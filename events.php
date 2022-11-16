@@ -31,7 +31,7 @@
                                 </div>
                                 <div class="events-one__content">
                                     <ul class="list-unstyled events-one__meta">
-                                        <li><i class="fas fa-clock"></i>8:00pm</li>
+                                        
                                         <li><i class="fas fa-map-marker-alt"></i>Multan</li>
                                     </ul>
                                     <h3 class="events-one__title"><a href="event-details.php">Environment Education Program</a></h3>
@@ -50,7 +50,7 @@
                                 </div>
                                 <div class="events-one__content">
                                     <ul class="list-unstyled events-one__meta">
-                                        <li><i class="fas fa-clock"></i>8:00pm</li>
+                                        
                                         <li><i class="fas fa-map-marker-alt"></i>Muzaffargarh</li>
                                     </ul>
                                     <h3 class="events-one__title"><a href="event-details.php">Solid Waste Management Programs</a></h3>
@@ -69,7 +69,7 @@
                                 </div>
                                 <div class="events-one__content">
                                     <ul class="list-unstyled events-one__meta">
-                                        <li><i class="fas fa-clock"></i>8:00pm</li>
+                                        
                                         <li><i class="fas fa-map-marker-alt"></i>Lahore</li>
                                     </ul>
                                     <h3 class="events-one__title"><a href="event-details.php">Home School Education Program</a></h3>
@@ -88,7 +88,7 @@
                                 </div>
                                 <div class="events-one__content">
                                     <ul class="list-unstyled events-one__meta">
-                                        <li><i class="fas fa-clock"></i>8:00pm</li>
+                                        
                                         <li><i class="fas fa-map-marker-alt"></i>Lodhran</li>
                                     </ul>
                                     <h3 class="events-one__title"><a href="event-details.php">Senior Citizens</a></h3>
@@ -107,7 +107,7 @@
                                 </div>
                                 <div class="events-one__content">
                                     <ul class="list-unstyled events-one__meta">
-                                        <li><i class="fas fa-clock"></i>8:00pm</li>
+                                        
                                         <li><i class="fas fa-map-marker-alt"></i>Lahore</li>
                                     </ul>
                                     <h3 class="events-one__title"><a href="event-details.php">Education</a></h3>
@@ -126,7 +126,7 @@
                                 </div>
                                 <div class="events-one__content">
                                     <ul class="list-unstyled events-one__meta">
-                                        <li><i class="fas fa-clock"></i>8:00pm</li>
+                                        
                                         <li><i class="fas fa-map-marker-alt"></i>Multan</li>
                                     </ul>
                                     <h3 class="events-one__title"><a href="event-details.php">Waseeb Baithak</a></h3>

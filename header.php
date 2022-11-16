@@ -83,9 +83,8 @@
                                             <img src="assets/images/icon/main-menu-heart-icon.png" alt="">
                                         </div>
                                         <div class="main-menu__volunteers-text-box">
-                                            <p class="main-menu__volunteers-text"><a href="become-volunteer.php">Become
-                                                    a
-                                                    <span>volunteers</span></a></p>
+                                            <p class="main-menu__volunteers-text"><a href="become-volunteer.php">Need text
+                                                    <span>...</span></a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -139,7 +138,7 @@
                                             
                                         </li>
                                         <li class="dropdown">
-                                            <a href="#">About Us Pages</a>
+                                            <a href="#">About us</a>
                                             <ul>
                                                 <li><a href="about.php">About</a></li>
                                                 <li><a href="gallery.php">Gallery</a></li>
@@ -155,7 +154,7 @@
                                             </ul>
                                         </li>
                                         <li class="dropdown">
-                                            <a href="#">Donations</a>
+                                            <a href="#">Projects</a>
                                             <ul>
                                                 <li><a href="donation.php">Donation</a></li>
                                                 <li><a href="donation-details.php">Donation details</a></li>

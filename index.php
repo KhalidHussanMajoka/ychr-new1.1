@@ -33,8 +33,8 @@
                             <div class="row">
                                 <div class="col-xl-6 col-lg-8">
                                     <div class="main-slider__content">
-                                        <p class="main-slider__sub-title">Always donate for childrens</p>
-                                        <h2 class="main-slider__title">Lend a Helping Hand to Those in Need</h2>
+                                        <p class="main-slider__sub-title">Youth Commission For Human Rights</p>
+                                        <h2 class="main-slider__title">childern's Education</h2>
                                         <div class="main-slider__btn-box">
                                             <a href="about.php" class="thm-btn main-slider__btn"> Discover more</a>
                                         </div>
@@ -59,8 +59,8 @@
                             <div class="row">
                                 <div class="col-xl-6 col-lg-8">
                                     <div class="main-slider__content">
-                                        <p class="main-slider__sub-title">Always donate for childrens</p>
-                                        <h2 class="main-slider__title">Lend a Helping Hand to Those in Need</h2>
+                                        <p class="main-slider__sub-title">Youth Commission For Human Rights</p>
+                                        <h2 class="main-slider__title">Women Empowerment</h2>
                                         <div class="main-slider__btn-box">
                                             <a href="about.php" class="thm-btn main-slider__btn"> Discover more</a>
                                         </div>
@@ -85,8 +85,8 @@
                             <div class="row">
                                 <div class="col-xl-6 col-lg-8">
                                     <div class="main-slider__content">
-                                        <p class="main-slider__sub-title">Always donate for childrens</p>
-                                        <h2 class="main-slider__title">Lend a Helping Hand to Those in Need</h2>
+                                        <p class="main-slider__sub-title">Youth Commission For Human Rights</p>
+                                        <h2 class="main-slider__title">Grow the human skills</h2>
                                         <div class="main-slider__btn-box">
                                             <a href="about.php" class="thm-btn main-slider__btn"> Discover more</a>
                                         </div>
@@ -166,15 +166,6 @@
                             <ul class="list-unstyled about-one__points">
                                 <li>
                                     <div class="icon">
-                                        <span class="icon-volunteer"></span>
-                                    </div>
-                                    <div class="text">
-                                        <h5><a href="become-volunteer.php">Join our team</a></h5>
-                                        <p>Join our team to help the needy people</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="icon">
                                         <span class="icon-solidarity"></span>
                                     </div>
                                     <div class="text">
@@ -195,8 +186,7 @@
         <section class="causes-one">
             <div class="container">
                 <div class="section-title text-center">
-                    <span class="section-title__tagline">Help & donate us now</span>
-                    <h2 class="section-title__title">Find the popular cause <br> and donate them</h2>
+                    <h2 class="section-title__title">Our Interventions</h2>
                 </div>
                 <div class="row">
                     <!--Causes One Single Start-->
@@ -213,20 +203,7 @@
                                         children get good life</a>
                                 </h3>
                                 <p class="causes-one__text">We must educate our new generation,so that we have a healthy society</p>
-                                <div class="causes-one__progress">
-                                    <div class="causes-one__progress-shape"
-                                        style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
-                                    </div>
-                                    <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="36%">
-                                            <div class="count-text">36%</div>
-                                        </div>
-                                    </div>
-                                    <div class="causes-one__goals">
-                                        <p><span>$25,270</span> Raised</p>
-                                        <p><span>$30,000</span> Goal</p>
-                                    </div>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -245,20 +222,7 @@
                                 </h3>
                                 <p class="causes-one__text">There are many of people, but majority have
                                     suffered alteration in some form.</p>
-                                <div class="causes-one__progress">
-                                    <div class="causes-one__progress-shape"
-                                        style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
-                                    </div>
-                                    <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="36%">
-                                            <div class="count-text">36%</div>
-                                        </div>
-                                    </div>
-                                    <div class="causes-one__goals">
-                                        <p><span>$25,270</span> Raised</p>
-                                        <p><span>$30,000</span> Goal</p>
-                                    </div>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -267,7 +231,7 @@
                     <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                         <div class="causes-one__single">
                             <div class="causes-one__img">
-                                <img src="assets/images/resources/ychr-main.png" style="height:30.9vh" alt="">
+                                <img src="assets/images/resources/ychr-main.png" style="height:38vh" alt="">
                                 <div class="causes-one__cat">
                                     <p> Economic And Political Empowerment</p>
                                 </div>
@@ -277,20 +241,7 @@
                                 Empowerment</a>
                                 </h3>
                                 <p class="causes-one__text">mostly population is struggling to manage healthy life due to economic incertainity</p>
-                                <div class="causes-one__progress">
-                                    <div class="causes-one__progress-shape"
-                                        style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
-                                    </div>
-                                    <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="36%">
-                                            <div class="count-text">36%</div>
-                                        </div>
-                                    </div>
-                                    <div class="causes-one__goals">
-                                        <p><span>$25,270</span> Raised</p>
-                                        <p><span>$30,000</span> Goal</p>
-                                    </div>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -373,7 +324,6 @@
                                             </div>
                                             <div class="events-one__content">
                                                 <ul class="list-unstyled events-one__meta">
-                                                    <li><i class="fas fa-clock"></i>8:00pm</li>
                                                     <li><i class="fas fa-map-marker-alt"></i>Multan</li>
                                                 </ul>
                                                 <h3 class="events-one__title"><a href="event-details.php">Waseeb Aman Kaths</a></h3>
@@ -392,7 +342,7 @@
                                             </div>
                                             <div class="events-one__content">
                                                 <ul class="list-unstyled events-one__meta">
-                                                    <li><i class="fas fa-clock"></i>8:00pm</li>
+                                                    
                                                     <li><i class="fas fa-map-marker-alt"></i>Muzaffargarh</li>
                                                 </ul>
                                                 <h3 class="events-one__title"><a href="event-details.php">Home School Education Program</a></h3>
@@ -411,7 +361,7 @@
                                             </div>
                                             <div class="events-one__content">
                                                 <ul class="list-unstyled events-one__meta">
-                                                    <li><i class="fas fa-clock"></i>8:00pm</li>
+                                                    
                                                     <li><i class="fas fa-map-marker-alt"></i>Lahore</li>
                                                 </ul>
                                                 <h3 class="events-one__title"><a href="event-details.php">Home School Education Program</a></h3>
@@ -430,7 +380,7 @@
                                             </div>
                                             <div class="events-one__content">
                                                 <ul class="list-unstyled events-one__meta">
-                                                    <li><i class="fas fa-clock"></i>8:00pm</li>
+                                                    
                                                     <li><i class="fas fa-map-marker-alt"></i>Multan</li>
                                                 </ul>
                                                 <h3 class="events-one__title"><a href="event-details.php">Environment Education Program</a></h3>
@@ -449,7 +399,7 @@
                                             </div>
                                             <div class="events-one__content">
                                                 <ul class="list-unstyled events-one__meta">
-                                                    <li><i class="fas fa-clock"></i>8:00pm</li>
+                                                    
                                                     <li><i class="fas fa-map-marker-alt"></i>Muzaffargarh</li>
                                                 </ul>
                                                 <h3 class="events-one__title"><a href="event-details.php">Solid Waste Management Programs</a></h3>
@@ -468,7 +418,7 @@
                                             </div>
                                             <div class="events-one__content">
                                                 <ul class="list-unstyled events-one__meta">
-                                                    <li><i class="fas fa-clock"></i>8:00pm</li>
+                                                    
                                                     <li><i class="fas fa-map-marker-alt"></i>Lodhran</li>
                                                 </ul>
                                                 <h3 class="events-one__title"><a href="event-details.php">Senior Citizens </a></h3>
