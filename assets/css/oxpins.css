@@ -6623,7 +6623,7 @@ body.locked .page-wrapper {
 }
 
 .contact-one__single:hover .contact-one__icon {
-  background-color: var(--oxpins-base);
+  background-color: #006F99;
 }
 
 .contact-one__icon span {
