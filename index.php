@@ -231,7 +231,7 @@
                     <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                         <div class="causes-one__single">
                             <div class="causes-one__img">
-                                <img src="assets/images/resources/ychr-main.png" style="height:38vh" alt="">
+                                <img src="assets/images/resources/ychr-main.png" style="height:31.5vh" alt="">
                                 <div class="causes-one__cat">
                                     <p> Economic And Political Empowerment</p>
                                 </div>
