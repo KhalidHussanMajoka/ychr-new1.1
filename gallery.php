@@ -384,7 +384,7 @@
                     <div class="col-xl-4 col-lg-6 col-md-6">
                         <div class="gallery-page__single">
                             <div class="gallery-page__img">
-                                <img src="assets/images/gallery/IMG_2974.jpg" style="height:56vh;width:120%;" alt="">
+                                <img src="assets/images/gallery/IMG_2974.JPG" style="height:56vh;width:120%;" alt="">
                                 <a href="assets/images/gallery/IMG_2974.jpg" class="img-popup"></a>
                                 <!-- /.img-popup -->
                                 <div class="gallery-page__content">
