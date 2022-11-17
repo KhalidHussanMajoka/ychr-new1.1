@@ -4187,7 +4187,7 @@ body.locked .page-wrapper {
 .testimonial-one__quote {
   height: 70px;
   width: 70px;
-  background-color: var(--oxpins-base);
+  background-color: #006F99;
   border-radius: 50%;
   display: flex;
   align-items: center;
