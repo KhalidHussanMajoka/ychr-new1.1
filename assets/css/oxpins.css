@@ -11000,7 +11000,7 @@ body.locked .page-wrapper {
   justify-content: center;
   height: 16px;
   width: 16px;
-  background-color: var(--oxpins-primary);
+  background-color: #006F99;
   border-radius: 50%;
   font-size: 10px;
   color: var(--oxpins-white);
