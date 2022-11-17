@@ -74,7 +74,7 @@
                         </div>
                     </div>
                 </div>
-                <center>For More Information On The Background Of The YCHR <a href="about.php"><span style="color:#fd7e14">Click Here.</span></a></center>
+                <center>For More Information On The Background Of The YCHR <a href="about.php"><span style="color:#006F99">Click Here.</span></a></center>
             </div>
         </div>
  </section>
