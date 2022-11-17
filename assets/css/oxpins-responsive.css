@@ -1263,13 +1263,13 @@
     }
 
     .main-menu .mobile-nav__toggler {
-        color: var(--oxpins-white);
+        color: #006F99;
         display: inline-block;
         padding: 17px 0;
     }
 
     .main-menu .mobile-nav__toggler:hover {
-        color: var(--oxpins-primary);
+        color: #006F99;
     }
 
 
@@ -1346,13 +1346,13 @@
     }
 
     .main-menu .mobile-nav__toggler {
-        color: var(--oxpins-white);
+        color: #006F99;
         display: inline-block;
         padding: 17px 0;
     }
 
     .main-menu .mobile-nav__toggler:hover {
-        color: var(--oxpins-primary);
+        color: #006F99;
     }
 
     .main-menu__wrapper {
@@ -1448,13 +1448,13 @@
     }
 
     .main-menu .mobile-nav__toggler {
-        color: var(--oxpins-base);
+        color: #006F99;
         display: inline-block;
         padding: 17px 0;
     }
 
     .main-menu .mobile-nav__toggler:hover {
-        color: var(--oxpins-black);
+        color: #006F99;
     }
 
 

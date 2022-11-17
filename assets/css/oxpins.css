@@ -1348,7 +1348,7 @@ ul {
 .mobile-nav__content .main-menu__list>li>ul>li>ul>li>a>button {
   width: 30px;
   height: 30px;
-  background-color: var(--oxpins-base);
+  background-color: #006F99;
   border: none;
   outline: none;
   color: #fff;
@@ -1481,7 +1481,7 @@ ul {
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  background-color: var(--oxpins-base);
+  background-color: #006F99;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
