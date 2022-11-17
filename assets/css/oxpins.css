@@ -3198,7 +3198,7 @@ body.locked .page-wrapper {
   position: relative;
   display: inline-block;
   font-size: 65px;
-  color: var(--oxpins-base);
+  color: #006F99;
   transition: all 500ms linear;
   transition-delay: 0.1s;
   transform: scale(1);
