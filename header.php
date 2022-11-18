@@ -69,7 +69,7 @@
                     <div class="main-menu__wrapper-inner">
                         <div class="main-menu__left">
                             <div class="main-menu__logo">
-                                <a href="index.php"><img src="assets/images/resources/ychr_logo.png" alt="" width="86%"></a>
+                                <a href="index.php"><img src="assets/images/resources/ychr_logo.png" alt="" width="86"></a>
                             </div>
                             <div class="main-menu__shape-1 float-bob-x">
                                 <img src="assets/images/shapes/main-menu-shape-1.png" alt="">

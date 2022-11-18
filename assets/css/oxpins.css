@@ -3845,7 +3845,7 @@ body.locked .page-wrapper {
   justify-content: center;
   height: 117px;
   width: 117px;
-  background-color: var(--oxpins-base);
+  background-color: #006F99;
   border-radius: 50%;
   font-size: 65px;
   color: var(--oxpins-white);
@@ -3955,7 +3955,7 @@ body.locked .page-wrapper {
 }
 
 .feature-one__top-icon--two:hover {
-  background-color: var(--oxpins-base);
+  background-color: #006F99;
   color: var(--oxpins-white);
 }
 
@@ -9096,7 +9096,7 @@ body.locked .page-wrapper {
   box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.1), inset 0px 4px 0px 0px #006F99;
   border-radius: var(--oxpins-bdr-radius);
   padding: 36px 60px 40px;
-  border-top: 4px solid var(--oxpins-base);
+  border-top: 4px solid #006F99;
 }
 
 .event-details__info-list {
