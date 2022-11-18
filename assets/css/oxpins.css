@@ -1062,7 +1062,7 @@ ul {
   font-weight: 900;
   content: "\f30b";
   font-size: 14px;
-  color: var(--oxpins-base);
+  color: #006F99;
   transform: translateY(-50%) scale(0);
   -webkit-transition: 500ms;
   transition: 500ms;
