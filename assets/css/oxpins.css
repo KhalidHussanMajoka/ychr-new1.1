@@ -8749,7 +8749,7 @@ body.locked .page-wrapper {
   left: 0;
   right: 0;
   height: 100%;
-  background-color: var(--oxpins-base);
+  background-color: #006F99;
   -webkit-transition-delay: .1s;
   transition-delay: .1s;
   -webkit-transition-timing-function: ease-in-out;
@@ -8879,7 +8879,7 @@ body.locked .page-wrapper {
 }
 
 .comment-one__btn:before {
-  background-color: var(--oxpins-base);
+  background-color: #006F99;
 }
 
 .comment-one__image {
