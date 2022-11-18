@@ -490,8 +490,8 @@ ul {
 
 .main-menu__shape-1 {
   position: absolute;
-  bottom: -5px;
-  right: -140px;
+  bottom: -77px;
+  right: -201px;
 }
 
 .main-menu__shape-1 img {
@@ -3964,7 +3964,7 @@ body.locked .page-wrapper {
 }
 
 .feature-one__single--two .feature-one__btn:before {
-  background-color: var(--oxpins-base);
+  background-color: #006F99;
 }
 
 /*--------------------------------------------------------------

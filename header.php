@@ -3,6 +3,7 @@
 
 
 <!-- Mirrored from layerdrops.com/oxpins/main-html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 10 Nov 2022 10:01:32 GMT -->
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -22,12 +23,9 @@
 
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
-    <link
-        href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
 
-    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&amp;display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet">
 
     <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
 
@@ -135,7 +133,7 @@
                                     <ul class="main-menu__list">
                                         <li class="dropdown current megamenu">
                                             <a href="index.php">Home </a>
-                                            
+
                                         </li>
                                         <li class="dropdown">
                                             <a href="#">About us</a>
@@ -168,9 +166,9 @@
                                             <a href="#">Events</a>
                                             <ul>
                                                 <li><a href="events.php">Events</a></li>
-                                                 <li><a href="event-details.php">Event details</a></li>
+                                                <li><a href="event-details.php">Event details</a></li>
                                                 <li><a href="team-details.php">Team Details</a>
-                                                <!-- <li><a href="events-carousel.php">Events carousel</a></li>-->
+                                                    <!-- <li><a href="events-carousel.php">Events carousel</a></li>-->
                                             </ul>
                                         </li>
                                         <li class="dropdown">
@@ -189,15 +187,13 @@
                                 <div class="main-menu__main-menu-content-box">
                                     <div class="main-menu__search-cat-btn-box">
                                         <div class="main-menu__search-box">
-                                            <a href="#"
-                                                class="main-menu__search search-toggler icon-magnifying-glass"></a>
+                                            <a href="#" class="main-menu__search search-toggler icon-magnifying-glass"></a>
                                         </div>
                                         <div class="main-menu__cat-box">
                                             <a href="#" class="main-menu__cart icon-avatar"></a>
                                         </div>
                                         <div class="main-menu__btn-box">
-                                            <a href="donate-now.php" class="main-menu__btn"> <span
-                                                    class="fa fa-heart"></span> Donate
+                                            <a href="donate-now.php" class="main-menu__btn"> <span class="fa fa-heart"></span> Donate
                                                 now</a>
                                         </div>
                                     </div>
