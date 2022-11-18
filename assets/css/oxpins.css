@@ -8596,7 +8596,7 @@ body.locked .page-wrapper {
 
 .news-details__date p {
   font-size: 18px;
-  color: var(--oxpins-black);
+  color: #006F99;
   font-family: var(--oxpins-font-three);
   font-weight: 700;
   line-height: 18px;
