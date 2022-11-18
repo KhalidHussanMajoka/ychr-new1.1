@@ -3138,7 +3138,7 @@ body.locked .page-wrapper {
   bottom: 7px;
   left: 0;
   width: 6px;
-  background-color: var(--oxpins-base);
+  background-color: #006F99;
 }
 
 .about-one__fund-text {
