@@ -139,11 +139,18 @@
                                             <a href="#">About us</a>
                                             <ul>
                                                 <li><a href="about.php">About</a></li>
-                                                <li><a href="team-details.php">Team Details</a>
                                                 <li><a href="gallery.php">Gallery</a></li>
-                                                <li><a href="thematic-area.php">Thematic Area</a></li>
                                                 <li><a href="our-partners.php">Our partnership</a></li>
                                                 <li><a href="become-volunteer.php">Become volunteer</a></li>
+                                                <li><a href="donation.php">Donation</a></li>
+                                                <li><a href="donation-details.php">Donation details</a></li>
+                                                <!-- <li><a href="donations-list.php">Donation list</a></li>
+                                                <li><a href="donation-carousel.php">Donation carousel</a></li>
+                                                 -->
+                                                <li><a href="donate-now.php">Donate Now</a></li>
+                                                <li><a href="events.php">Events</a></li>
+                                                <li><a href="event-details.php">Event details</a></li>
+                                                <!-- <li><a href="events-carousel.php">Events carousel</a></li>-->
                                                 <!-- <li><a href="volunteer.php">Volunteer</a></li>
                                                 <li><a href="become-volunteer.php">Become volunteer</a></li>
                                                 <li><a href="volunteer-carousel.php">Volunteer carousel</a></li>
@@ -152,25 +159,8 @@
                                                 <li><a href="404.php">404 Error</a></li>
                                             </ul>
                                         </li>
-                                        <li class="dropdown">
-                                            <a href="#">Projects</a>
-                                            <ul>
-                                                <li><a href="donation.php">Donation</a></li>
-                                                <li><a href="donation-details.php">Donation details</a></li>
-                                                <!-- <li><a href="donations-list.php">Donation list</a></li>
-                                                <li><a href="donation-carousel.php">Donation carousel</a></li>
-                                                 -->
-                                                <li><a href="donate-now.php">Donate Now</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown">
-                                            <a href="#">Events</a>
-                                            <ul>
-                                                <li><a href="events.php">Events</a></li>
-                                                <li><a href="event-details.php">Event details</a></li>
-                                                <!-- <li><a href="events-carousel.php">Events carousel</a></li>-->
-                                            </ul>
-                                        </li>
+                                        <li><a href="team-details.php">Who We Are</a>
+                                        <li><a href="thematic-area.php">Thematic Area</a></li>
                                         <li class="dropdown">
                                             <a href="#">News</a>
                                             <ul>
