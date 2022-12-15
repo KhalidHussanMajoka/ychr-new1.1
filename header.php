@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Home || YCHR || Youth Commission for Human Rights </title>
+    <title> Home || YCHR || Youth Commission for Human Rights</title>
     <!-- favicons Icons -->
 
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicon_io/apple-touch-icon.png">
@@ -81,7 +81,7 @@
                                             <img src="assets/images/icon/main-menu-heart-icon.png" alt="">
                                         </div>
                                         <div class="main-menu__volunteers-text-box">
-                                            <p class="main-menu__volunteers-text"><a href="become-volunteer.php">Need text
+                                            <p class="main-menu__volunteers-text"><a href="become-volunteer.php">YCHR
                                                     <span>...</span></a></p>
                                         </div>
                                     </div>
@@ -139,6 +139,7 @@
                                             <a href="#">About us</a>
                                             <ul>
                                                 <li><a href="about.php">About</a></li>
+                                                <li><a href="team-details.php">Team Details</a>
                                                 <li><a href="gallery.php">Gallery</a></li>
                                                 <li><a href="thematic-area.php">Thematic Area</a></li>
                                                 <li><a href="our-partners.php">Our partnership</a></li>
@@ -167,8 +168,7 @@
                                             <ul>
                                                 <li><a href="events.php">Events</a></li>
                                                 <li><a href="event-details.php">Event details</a></li>
-                                                <li><a href="team-details.php">Team Details</a>
-                                                    <!-- <li><a href="events-carousel.php">Events carousel</a></li>-->
+                                                <!-- <li><a href="events-carousel.php">Events carousel</a></li>-->
                                             </ul>
                                         </li>
                                         <li class="dropdown">
@@ -204,7 +204,6 @@
                 </div>
             </nav>
         </header>
-
         <div class="stricky-header stricked-menu main-menu">
             <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
         </div><!-- /.stricky-header -->
